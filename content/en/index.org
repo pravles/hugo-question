@@ -1,6 +1,4 @@
----
-title: "Welcome"
----
+#+title: Welcome
 
 This is under construction.
 

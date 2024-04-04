@@ -1,7 +1,6 @@
-#+title: "Hf 1"
+#+title: Hf 1
 #+date: 2024-04-04T10:05:44+02:00
 #+author: Pravles Redneckoff
-#+hugo_section: posts
 #+hugo_base_dir: ../../..
 
 Huggingface.

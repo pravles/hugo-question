@@ -1,6 +1,4 @@
----
-title: "Willkommen"
----
+#+title: Willkommen
 
 Hallo!
 
