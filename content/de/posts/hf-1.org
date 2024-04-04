@@ -1,8 +1,7 @@
----
-title: "Hf 1"
-date: 2024-04-04T10:05:44+02:00
-draft: false
----
+#+title: "Hf 1"
+#+date: 2024-04-04T10:05:44+02:00
+#+draft: false
+#+hugo_section: post
 
 Huggingface.
 
