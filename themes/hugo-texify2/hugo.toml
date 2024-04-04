@@ -1,0 +1,57 @@
+[module]
+  [module.hugoVersion]
+    min = "0.113.0"
+
+[[menu.main]]
+identifier = "english"
+name = "English"
+url = "/en/"
+weight = 1
+
+[[menu.main]]
+identifier = "german"
+name = "Deutsch"
+url = "/de/"
+weight = 2
+
+
+[taxonomies]
+tags = "tags"
+
+[params]
+title="Sample Page"
+description = ""
+images = ['images/logo.jpg']
+footnote = """
+"""
+keywords = []
+customCSS = []
+customJS = []
+dateFormat = "January 2, 2006"
+emphasisWithDots = true
+since = "2023"
+toc = false
+showWordCount = true
+showReadingTime = true
+rootFontSize = "120%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = false
+
+[params.commentEngine]
+code = """
+"""
+
+[params.buymeacoffee]
+code = """
+"""
+
+[params.sharingbuttons]
+facebook = false
+twitter = false
+email = false
+linkedin = false
+reddit = false
+whatsapp = false
+hackernews = false
+telegram = false

@@ -1,0 +1,11 @@
+---
+title: "Hf 1"
+date: 2024-04-04T10:05:44+02:00
+draft: false
+---
+
+Huggingface.
+
+Erstes Experiment mit Huggingface.
+
+

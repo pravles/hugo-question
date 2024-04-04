@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+title = 'Sample Page'
+theme = 'hugo-texify2'
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
+
+
+[languages]
+  [languages.en]
+  contentDir = 'content/en'
+  languageCode = 'en-us'
+#    languageDirection = ''
+#    languageName = ''
+#    title = ''
+#    weight = 0
+    [languages.en.params]
+      title = 'Sample Page'
+  [languages.de]
+    contentDir = 'content/de'
+    languageCode = 'de-de'
+#    languageDirection = ''
+#    languageName = ''
+#    title = ''
+#    weight = 0
+    [languages.de.params]
+      title = 'Beispielseite'
