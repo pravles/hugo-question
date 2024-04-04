@@ -1,0 +1,10 @@
+{{ define "head" }}
+<link rel="stylesheet" href='{{ "css/index.css" | absURL }}'>
+{{ end }}
+
+{{ define "main" }}
+<main id="main" class="index">
+  {{ .Content }}
+
+</main>
+{{ end }}

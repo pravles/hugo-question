@@ -1,4 +1,9 @@
 #+title: Willkommen
 
-Hallo!
+* Willkommen
 
+
+ * [[/de/post/][Blog posts in German]]
+ * [[/de/some-page][Some page]]
+
+   
