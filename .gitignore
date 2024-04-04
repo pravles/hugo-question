@@ -1,0 +1,7 @@
+public/
+*.md~
+.DS_Store
+*.org~
+*.toml~
+*.css~
+.hugo_build.lock

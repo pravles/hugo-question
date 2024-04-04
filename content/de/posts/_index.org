@@ -1,0 +1,3 @@
+#+title: "Beiträge"
+#+hugo_base_dir: ../../..
+
